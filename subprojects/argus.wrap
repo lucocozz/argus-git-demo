@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/lucocozz/argus.git
+revision = head
+depth = 1
+
+[provide]
+argus = argus_dep

@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		".env": "plaintext",
+		"regex.h": "c",
+		"git_types.h": "c",
+		"mock_data.h": "c"
+	}
+}
